@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discord Bot - Legal</title>
+  <style>
+    body {
+      background: #202127;
+      color: #f2f2f5;
+      font: 17px Arial, sans-serif;
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.7;
+    }
+    a { color: #8ab4ff; }
+    section {
+      background: #2b2c34;
+      padding: 20px;
+      margin: 16px 0;
+      border-radius: 14px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Thông tin pháp lý của bot</h1>
+  <p>Trang thông tin dành cho người dùng bot Discord.</p>
+  <section>
+    <h2>Điều khoản dịch vụ</h2>
+    <p><a href="terms.html">Xem Điều khoản dịch vụ</a></p>
+  </section>
+  <section>
+    <h2>Chính sách bảo mật</h2>
+    <p><a href="privacy.html">Xem Chính sách bảo mật</a></p>
+  </section>
+</body>
+</html>
